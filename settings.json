@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "megacraft-rAaw.aternos.me:42822",
+    "port": 42822,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
